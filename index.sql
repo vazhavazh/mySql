@@ -158,3 +158,8 @@ MariaDB [practisenew]> SELECT column_name, data_type, column_comment
 3 rows in set (0.003 sec)
 
 MariaDB [practisenew]>
+
+
+// !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
